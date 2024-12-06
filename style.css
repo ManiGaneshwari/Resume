@@ -21,14 +21,6 @@ h3 {
     padding-bottom: 1em;
 }
 
-<main>
-    <article>
-        Contact info
-    </article>
-    <article>
-        About you & experience
-    </article>
-</main>
 main { 
     display: grid;
     grid-template-columns: 40% 60%;
